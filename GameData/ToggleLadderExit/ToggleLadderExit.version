@@ -1,0 +1,21 @@
+{
+  "NAME": "ToggleLadderExit",
+  "URL": "https://raw.githubusercontent.com/linuxgurugamer/ToggleLadderExit/master/ToggleLadderExit.version",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/ToggleLadderExit/releases",
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 0,
+    "PATCH": 1,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 11,
+    "PATCH": 2
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 11,
+    "PATCH": 2
+  }
+} 
