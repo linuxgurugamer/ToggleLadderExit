@@ -1,6 +1,8 @@
 Changelog
 
-
+0.0.1.2
+    Deleted unnecessary file in PluginData
+    
 0.0.1.1
 	Added AssemblyFileVersion
 	Updated version file for 1.12
